@@ -30,3 +30,30 @@ A smart chatbot that answers your questions using real Wikipedia content. Built 
    ```bash
    git clone https://github.com/yourusername/wikipedia-rag-chatbot.git
    cd wikipedia-rag-chatbot
+
+2. **Install dependencies
+   ```bash
+   pip install -r requirements.txt
+
+3. **Set up environment variables
+
+   GEMINI_API_KEY=your_gemini_api_key_here
+4. **Run the app
+   ```bash
+   streamlit run main.py
+## 📂 Folder Structure
+
+   main.py               # Main app logic
+   .env                  # API key file
+   requirements.txt      # Dependencies
+   wiki-rag/             # Auto-saved vector indices
+## 💡Example Queries
+   What is machine learning?
+   How does a convolutional neural network work?
+   What is reinforcement learning?
+
+## 🙌 Acknowledgements
+   LlamaIndex
+   HuggingFace Sentence Transformers
+   Gemini API
+

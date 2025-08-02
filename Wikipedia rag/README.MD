@@ -31,14 +31,14 @@ A smart chatbot that answers your questions using real Wikipedia content. Built 
    git clone https://github.com/yourusername/wikipedia-rag-chatbot.git
    cd wikipedia-rag-chatbot
 
-2. **Install dependencies
+2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
 
-3. **Set up environment variables
+3. **Set up environment variables**
 
    GEMINI_API_KEY=your_gemini_api_key_here
-4. **Run the app
+4. **Run the app**
    ```bash
    streamlit run main.py
 ## 📂 Folder Structure

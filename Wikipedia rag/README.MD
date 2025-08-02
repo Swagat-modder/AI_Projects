@@ -43,17 +43,17 @@ A smart chatbot that answers your questions using real Wikipedia content. Built 
    streamlit run main.py
 ## 📂 Folder Structure
 
-   main.py               # Main app logic
-   .env                  # API key file
-   requirements.txt      # Dependencies
+ -  main.py               # Main app logic
+ -  .env                  # API key file
+ -  requirements.txt      # Dependencies
    wiki-rag/             # Auto-saved vector indices
 ## 💡Example Queries
-   What is machine learning?
-   How does a convolutional neural network work?
-   What is reinforcement learning?
+ -  What is machine learning?
+ -  How does a convolutional neural network work?
+ - What is reinforcement learning?
 
 ## 🙌 Acknowledgements
-   LlamaIndex
-   HuggingFace Sentence Transformers
-   Gemini API
+- LlamaIndex
+-  HuggingFace Sentence Transformers
+-  Gemini API
 

@@ -26,9 +26,7 @@ pip install transformers datasets torch
 
 # Usage
 
-1.Clone the Repository:
-git clone https://github.com/Swagat-modder/Text_Completion_(Using_Fine_tuning_of_LLMs).git
-cd text-completion-fine-tuning-llms
+1.Download the ipynb file
 
 2.Open the Notebook:
 Use Jupyter: jupyter notebook Text_Completion_(Using_Fine_tuning_of_LLMs).ipynb

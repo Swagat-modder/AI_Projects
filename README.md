@@ -52,14 +52,23 @@ textThis is a prompt to ask for help. I have no idea what the answer is. I have
 
 # Notebook Structure
 Step 1: Install dependencies.
+
 Step 2: Load and sample IMDb dataset.
+
 Step 3: Preprocess text (replace newlines).
+
 Step 4: Load tokenizer and model.
+
 Step 5: Tokenize data and set labels.
+
 Step 6: Configure training arguments.
+
 Step 7: Split data into train/eval sets.
+
 Step 8: Set up Trainer and fine-tune.
+
 Step 9: Save and test the model.
+
 Additional Notes: Explanation of fine-tuning benefits.
 
 # Results

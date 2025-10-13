@@ -1,4 +1,4 @@
-https://nbviewer.org/github/Swagat-modder/Fine-tunings-and-AI/blob/main/Text_Completion_%28Using_Fine_tuning_of_LLMs%29.ipynb
+(https://colab.research.google.com/drive/1oSePVHsu-rKo7YGmhdo0jSEQMepC7iFV?usp=sharing)
 
 ## Text Completion Using Fine-Tuning of Large Language Models (LLMs)
 
